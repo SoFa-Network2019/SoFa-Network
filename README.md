@@ -10,6 +10,7 @@ SoFa-Network（虫洞网络），是一个融合了网络通信协议、区块�
 * [英文版](./sofa-network-white-paper.pdf)
 
 ## 部署教程
+挖矿程序在[src](./src)目录下
 ### Step1
 将sofa文件上传到centos 7操作系统上  
 
