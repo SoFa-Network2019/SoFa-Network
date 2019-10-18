@@ -6,7 +6,6 @@ SoFa-Network（虫洞网络），是一个融合了网络通信协议、区块�
 官方网站：[https://sofa.one/](https://sofa.one/ "官方网站")
 
 ## 白皮书
-* [中文版](./sofa-network项目白皮书.pdf)<br>
-* [英文版](./sofa-network white paper.pdf)
+* [中文版](./sofa-network项目白皮书.pdf)  * [英文版](./sofa-network white paper.pdf)
 
 ## 部署教程
