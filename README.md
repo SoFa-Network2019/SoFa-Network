@@ -9,8 +9,13 @@ SoFa-Network（虫洞网络），是一个融合了网络通信协议、区块�
 * [中文版](./sofa-network项目白皮书.pdf)  
 * [英文版](./sofa-network-white-paper.pdf)
 
+## 应用端源码
+* [Android](./starship-android.zip)   
+* [iOS](./starship-ios.zip)  
+* [Mac](./starship-mac.zip)
+
 ## 部署教程
-挖矿程序在[src](./src)目录下
+挖矿程序在[src](./src)目录下,文件名sofa
 ### Step1
 将sofa文件上传到centos 7操作系统上  
 
