@@ -10,7 +10,7 @@ SoFa-Network（虫洞网络），是一个融合了网络通信协议、区块�
 * [英文版](./sofa-network-white-paper.pdf)
 
 ## 挖矿客户端
-* [Windows版](./src/SoFa-Network-Miner_V0.0.1_Setup.exe)  
+* [Windows版](./src/SoFa-Network-Miner_Setup.exe)  
 
 
 ## 部署教程
